@@ -13,9 +13,13 @@ AI-powered video analysis toolkit for extracting, analyzing, and summarizing vid
 
 ## Installation
 
+Install from PyPI:
+
 ```bash
 pip install dbbasic-video
 ```
+
+**That's it!** The package is now available on PyPI: https://pypi.org/project/dbbasic-video/
 
 Or install from source:
 
